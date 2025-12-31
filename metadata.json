@@ -1,0 +1,8 @@
+{
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "name": "Walkie Talkie AI Chat + ElevenLabs",
+  "description": "A voice-enabled turn-based AI chat assistant with wake-word detection and chat history. Using Web Speech API, Gemini Live API and ElevenLabs API",
+  "prompt": ""
+}
